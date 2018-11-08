@@ -1,0 +1,24 @@
+{
+  "name": "infographic",
+  "version": "1.0.0",
+  "description": "infographic poster with responsive design and interactive elements with the help of javascript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hassanyousuf/HY_DE_Infographic.git"
+  },
+  "author": "Hassan Yousuf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hassanyousuf/HY_DE_Infographic/issues"
+  },
+  "homepage": "https://github.com/hassanyousuf/HY_DE_Infographic#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.2"
+  }
+}
