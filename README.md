@@ -1,4 +1,4 @@
-# Davids favous burger
+# Davids famous burger
 
 An infographic diving into the ingredients used to make davids siginiture home made sandwatch.
 
